@@ -1,0 +1,15 @@
+*.exe
+*.obj
+*.pdb
+*.ipdb
+*.db
+*.opendb
+*.suo
+*.iobj
+*.filters
+*.user
+*lena.jpg
+*.dll
+/Debug
+/StereoReconstruction.DepthEstimation/StereoReconstruction.DepthEstimation/Debug
+/StereoReconstruction.DepthEstimation/StereoReconstruction.DepthEstimation/x64
